@@ -1,0 +1,33 @@
+_repo: Suljettujen-ovien-takana-b-Romaani_72523
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hellaakoski, Aaro
+    alias: Hellaakoski, Aaro Antti
+    birthdate: 1893
+    deathdate: 1952
+    gutenberg_agent_id: '4831'
+    url: http://www.gutenberg.org/2009/agents/4831
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Aaro_Hellaakoski
+    - https://fi.wikipedia.org/wiki/Aaro_Hellaakoski
+description: ''
+gutenberg_issued: '2023-12-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72523'
+language: fi
+pgterms:marc905: 20231221234346hellaakosk
+pgterms:marc906: '1923'
+pgterms:marc907: FI
+production_note: Jari Koivisto
+publication_note: '  $aHämeenlinna :$bArvi A. Karisto Oy, $c1923.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Finnish fiction -- 20th century'
+- !lcc 'PH'
+- GITenberg
+title: 'Suljettujen ovien takana : $b Romaani'
+url: http://www.gutenberg.org/ebooks/72523
