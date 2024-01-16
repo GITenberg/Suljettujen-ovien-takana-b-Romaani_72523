@@ -1,5 +1,8 @@
 _repo: Suljettujen-ovien-takana-b-Romaani_72523
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hellaakoski, Aaro
@@ -12,6 +15,8 @@ creator:
     - https://en.wikipedia.org/wiki/Aaro_Hellaakoski
     - https://fi.wikipedia.org/wiki/Aaro_Hellaakoski
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72523#Suljettujen-ovien-takana-b-Romaani
 gutenberg_issued: '2023-12-27'
 gutenberg_type: Text
 identifiers:
